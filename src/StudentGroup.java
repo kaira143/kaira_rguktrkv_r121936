@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
+import java.text.ParseException;import java.text.SimpleDateFormat;
 /**
  * A fix-lgd array of students
  * array length should always be equal to the number of stored elements
